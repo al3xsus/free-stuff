@@ -1,0 +1,22 @@
+{
+  "auth": [
+    {
+      "name": "Kinde",
+      "url": "https://kinde.com/"
+    }
+  ],
+  "mixed": [
+    {
+      "url": "https://replit.com/"
+    },
+    {
+      "url": "https://vercel.com/"
+    },
+    {
+      "url": "https://www.plasmic.app/"
+    },
+    {
+      "url": "https://supabase.com/"
+    }
+  ]
+}
